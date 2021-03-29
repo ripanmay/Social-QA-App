@@ -1,4 +1,11 @@
 # Compiled class file
+.idea/*
+.idea
+quora-api/quora-api.iml
+quora-db/quora-db.iml
+quora-service/quora-service.iml
+quora.iml
+target/
 *.class
 
 # Log file
