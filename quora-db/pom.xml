@@ -79,12 +79,8 @@
 
                 <configuration>
                     <driver>${postgresql.driver.name}</driver>
-                    <url>jdbc:postgresql://
-
-
-
-                    </url>
-                    <username>ripansharma</username>
+                    <url>jdbc:postgresql://localhost:5432/quora</url>
+                    <username>postgres</username>
                     <password>welcome</password>
                     <autocommit>true</autocommit>
                     <onError>abort</onError>
